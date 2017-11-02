@@ -1,0 +1,11 @@
+c:\users\wyz\documents\visual studio 2015\Projects\graphGenerator\graphGenerator\bin\Debug\graphGenerator.exe.config
+c:\users\wyz\documents\visual studio 2015\Projects\graphGenerator\graphGenerator\bin\Debug\graphGenerator.exe
+c:\users\wyz\documents\visual studio 2015\Projects\graphGenerator\graphGenerator\bin\Debug\graphGenerator.pdb
+c:\users\wyz\documents\visual studio 2015\Projects\graphGenerator\graphGenerator\obj\Debug\graphGenerator.csprojResolveAssemblyReference.cache
+c:\users\wyz\documents\visual studio 2015\Projects\graphGenerator\graphGenerator\obj\Debug\graphGenerator.Form1.resources
+c:\users\wyz\documents\visual studio 2015\Projects\graphGenerator\graphGenerator\obj\Debug\graphGenerator.Properties.Resources.resources
+c:\users\wyz\documents\visual studio 2015\Projects\graphGenerator\graphGenerator\obj\Debug\graphGenerator.csproj.GenerateResource.Cache
+c:\users\wyz\documents\visual studio 2015\Projects\graphGenerator\graphGenerator\obj\Debug\graphGenerator.exe
+c:\users\wyz\documents\visual studio 2015\Projects\graphGenerator\graphGenerator\obj\Debug\graphGenerator.pdb
+c:\users\wyz\documents\visual studio 2015\Projects\graphGenerator\graphGenerator\obj\Debug\Interop.MLApp.dll
+c:\users\wyz\documents\visual studio 2015\Projects\graphGenerator\graphGenerator\obj\Debug\graphGenerator.csproj.ResolveComReference.cache

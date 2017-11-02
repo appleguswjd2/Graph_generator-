@@ -1,4 +1,4 @@
-function [x,y]= graphGenerator(mode,xStart,xEnd,yStart,yEnd)
+function [x,y]= graphGeneratorFunc(mode,xStart,xEnd,yStart,yEnd)
 
 
 if yStart>yEnd
@@ -17,7 +17,7 @@ if mode==0.1
     i=1;
 elseif mode==0.2;
   %mode 2 : log graph
-    y=log((b-a).*x);
+    y=sin((b-a).*x);
     i=2;
 elseif mode==0.3;
     %mode 3: non-linear graph
