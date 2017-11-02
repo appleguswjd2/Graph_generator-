@@ -1,2 +1,1 @@
-# Graph_generator-
-Three modes of generating graph(linear,log,non-linear) 
+VimCrypt~01!B‹²6wíj…Úfç¡¿ª]°í$?0¿Š´¡~°lZïpüÌ_Ä[gB&ÙVâœÐc8We~ìäõIo77ÞK™ ÉÌ¯.[É€¦©êÖ"ž@ÃÖ×¥ã½·kFÃ/âÑòÈœ¸Å· ŠpOšœNƒ,+"¡Ó 4·3œ7KwNê'´?©ä¨+Ù0N¶Õ/ ^+íËô$mw(àñ¾õ>JÃœmíF”µsÃB…x„E)WåP¯nÀC³op´œV ŠçµäBŠC½“³ËûOtffQjÀ#¨A	ëÀùÐÅMºW¢¡ãŒT1Â{ÒÓjÓço­Í“®îÞôÿZÜjñ6ß€O1pA˜ª!Ý?†t¦áŽŸÿ°¯QM#€³Ìðž©‹ë<r'?5"8ÖM?u,º;m±>d½õX`LC+¹­º‘À
